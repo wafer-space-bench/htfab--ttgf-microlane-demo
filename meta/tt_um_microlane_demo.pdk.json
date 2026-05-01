@@ -1,0 +1,7 @@
+{
+  "FLOW_NAME": "microlane",
+  "FLOW_VERSION": "0.1.2",
+  "PDK": "gf180mcuD",
+  "PDK_SOURCE": "open_pdks",
+  "PDK_VERSION": "d815bb30c9afdf9e264c276a8a2b533108dea3d0"
+}

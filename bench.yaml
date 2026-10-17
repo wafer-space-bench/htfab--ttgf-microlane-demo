@@ -1,0 +1,27 @@
+source:
+  url: https://github.com/htfab/ttgf-microlane-demo
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_microlane_demo
+  project: microlane demo project
+  size: 1x1
+  kind: digital (Verilog)
+  commit: afdadb5d3dc49abd3a8a3ea6db0c5a9b48749600
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_microlane_demo
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_microlane_demo
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T23:47:05Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26a/tt_um_microlane_demo
+- upstream/main
+- upstream/test
